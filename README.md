@@ -1,8 +1,12 @@
-UMA EMPRESA POSSUI EM SEU DEPARTAMENTO COMERCIAL, UMA EQUIPE COMPOSTA POR 10 VENDEDORES.
+# Proj. MVC Vendedores
 
-DENTRO DE UM MESMO MÊS, É FEITO DIARIAMENTE UM REGISTRO DA QUANTIDADE DE VENDAS REALIZADAS POR CADA UM DELES, BEM COMO O VALOR TOTAL DESSAS VENDAS.
+### Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
 
-UTILIZE O DIAGRAMA DE CLASSES APRESENTADO À SEGUIR PARA DESENVOLVER UMA APLICAÇÃO COM AS OPÇÕES DESCRITAS ABAIXO:
+Uma empresa possui wm seu departamento comercial, uma equipe composta por 10 vendedores.
+
+Dentro de um mesmo mês, é feito diariamente um registro da quantidade de vendas realizadas por cada um deles, bem como o valor total dessas vendas.
+
+Utiliza o diagrama de classes apresentado à para desenvolver uma aplicação com as opções descritas abaixo:
 
 |Venda|
 |-|
